@@ -1,0 +1,15 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+h{
+   color: red;
+    border-bottom: 2px solid blue;
+    background-color: green;
+
+}
+#img1{
+    height: 1000px;
+    width: 720px;
+}
